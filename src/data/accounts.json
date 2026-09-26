@@ -12,5 +12,61 @@
     "country": "UAE",
     "email": "jane@example.com",
     "accountStatus": "Active"
+  },
+  {
+    "accountNumber": "ACC1003",
+    "customerName": "Michael Johnson",
+    "country": "United States",
+    "email": "michael.j@example.com",
+    "accountStatus": "Active"
+  },
+  {
+    "accountNumber": "ACC1004",
+    "customerName": "Sarah Williams",
+    "country": "United Kingdom",
+    "email": "sarah.w@example.com",
+    "accountStatus": "Suspended"
+  },
+  {
+    "accountNumber": "ACC1005",
+    "customerName": "Carlos Rodriguez",
+    "country": "Spain",
+    "email": "carlos.r@example.com",
+    "accountStatus": "Active"
+  },
+  {
+    "accountNumber": "ACC1006",
+    "customerName": "Amina Al-Mansoor",
+    "country": "UAE",
+    "email": "amina.m@example.com",
+    "accountStatus": "Active"
+  },
+  {
+    "accountNumber": "ACC1007",
+    "customerName": "Liam Chen",
+    "country": "Singapore",
+    "email": "liam.chen@example.com",
+    "accountStatus": "Pending Verification"
+  },
+  {
+    "accountNumber": "ACC1008",
+    "customerName": "Elena Rossi",
+    "country": "Italy",
+    "email": "elena.rossi@example.com",
+    "accountStatus": "Active"
+  },
+  {
+    "accountNumber": "ACC1009",
+    "customerName": "Rajesh Kumar",
+    "country": "India",
+    "email": "rajesh.k@example.com",
+    "accountStatus": "Inactive"
+  },
+  {
+    "accountNumber": "ACC1010",
+    "customerName": "Sophie Dubois",
+    "country": "France",
+    "email": "sophie.d@example.com",
+    "accountStatus": "Active"
   }
 ]
