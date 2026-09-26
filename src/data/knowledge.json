@@ -1,0 +1,42 @@
+[
+  {
+    "category": "shipment",
+    "question": "How can I track my shipment?",
+    "answer": "You can track your shipment using the waybill number provided during shipment creation."
+  },
+  {
+    "category": "shipment",
+    "question": "What does In Transit mean?",
+    "answer": "In Transit means that the shipment is currently moving between locations and has not reached the destination yet."
+  },
+  {
+    "category": "shipment",
+    "question": "What does Out for Delivery mean?",
+    "answer": "Out for Delivery means that the shipment has reached the destination delivery facility and is currently with the delivery courier."
+  },
+  {
+    "category": "account",
+    "question": "How can I update my account information?",
+    "answer": "Account information can be updated from the account management section."
+  },
+  {
+    "category": "order_supplies",
+    "question": "How can I order shipping supplies?",
+    "answer": "Shipping supplies can be ordered from the Order Supplies section."
+  },
+  {
+    "category": "shipment",
+    "question": "What does Delivered mean?",
+    "answer": "Delivered means that the shipment has been successfully delivered to the recipient."
+  },
+  {
+    "category": "shipment",
+    "question": "What does Exception mean?",
+    "answer": "Exception means that there was an issue with the shipment, such as a delay or a problem with the delivery address."
+  },
+  {
+    "category": "shipment",
+    "question": "What does Pending mean?",
+    "answer": "Pending means that the shipment is awaiting further processing or action before it can proceed."
+  }
+]

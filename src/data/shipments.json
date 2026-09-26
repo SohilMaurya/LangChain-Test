@@ -1,0 +1,58 @@
+[
+  {
+    "waybill": "123456789",
+    "status": "In Transit",
+    "origin": "Dubai",
+    "destination": "Chennai",
+    "estimatedDelivery": "2026-09-10"
+  },
+  {
+    "waybill": "987654321",
+    "status": "Delivered",
+    "origin": "Mumbai",
+    "destination": "Dubai",
+    "estimatedDelivery": "2026-09-05"
+  },
+    {
+    "waybill": "987634321",
+    "status": "Delivered",
+    "origin": "Mumbai",
+    "destination": "Dubai",
+    "estimatedDelivery": "2026-09-05"
+  },
+  {
+    "waybill": "111222333",
+    "status": "Pending",
+    "origin": "Chennai",
+    "destination": "Mumbai",
+    "estimatedDelivery": "2026-09-12"
+  },
+  {
+    "waybill": "444555666",
+    "status": "Exception",
+    "origin": "Delhi",
+    "destination": "Dubai",
+    "estimatedDelivery": "2026-09-08"
+  },
+  {
+    "waybill": "222333444",
+    "status": "In Transit",
+    "origin": "Mumbai",
+    "destination": "Chennai",
+    "estimatedDelivery": "2026-09-11"
+  },
+  {
+    "waybill": "333444555",
+    "status": "Delivered",
+    "origin": "Chennai",
+    "destination": "Delhi",
+    "estimatedDelivery": "2026-09-06"
+  },
+  {
+    "waybill": "555666777",
+    "status": "Out for Delivery",
+    "origin": "Delhi",
+    "destination": "Chennai",
+    "estimatedDelivery": "2026-09-07"
+  }
+]

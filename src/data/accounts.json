@@ -1,0 +1,16 @@
+[
+  {
+    "accountNumber": "ACC1001",
+    "customerName": "John Doe",
+    "country": "India",
+    "email": "john@example.com",
+    "accountStatus": "Active"
+  },
+  {
+    "accountNumber": "ACC1002",
+    "customerName": "Jane Smith",
+    "country": "UAE",
+    "email": "jane@example.com",
+    "accountStatus": "Active"
+  }
+]
