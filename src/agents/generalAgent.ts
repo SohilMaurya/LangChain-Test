@@ -7,6 +7,8 @@ export async function generalAgent(state: SupportStateType) {
     ? state.category
     : undefined;
 
+  // const query = `User Question: ${state.userQuery}\nCustomer Tier: ${state.customerTier}\nAccount Status: ${state.accountStatus}\nCountry: ${state.country}`;
+
   const results = searchKnowledge(state.userQuery, category);
 
   const context = results.length
